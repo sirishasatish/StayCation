@@ -2,7 +2,7 @@
         .jumbotron{
         justify-content:center;
         margin-top: 0px;
-        background-image:url("sky.jpg");
+        background-image:url("lake2.png");
         background-size:cover;
         background-repeat:no-repeat;
         color:white;
@@ -28,7 +28,7 @@
         }
 
         .navigation-color{
-            background-color: #83c5e0;
+            background-color: white;
             
         }
 
