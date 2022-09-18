@@ -1,0 +1,116 @@
+
+        .jumbotron{
+        justify-content:center;
+        margin-top: 0px;
+        background-image:url("sky.jpg");
+        background-size:cover;
+        background-repeat:no-repeat;
+        color:white;
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: 100% 100%;
+        justify-content: space-between;
+        }
+        input{
+            width: 100%;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .custom-navbar {
+            padding: 0px;
+            
+        }
+
+        .navigation-color{
+            background-color: #83c5e0;
+            
+        }
+
+        .caption-style {
+            font-size: 1.7em;
+        }
+
+        .footer-bottom {
+
+            bottom: 0;
+            width: 100%;
+
+        }
+
+        .feedback {
+            bottom: 0px;
+            right: 0px;
+        }
+
+        .img-height {
+            height: 12em;
+        }
+
+        .property-listing {
+            margin: 5px;
+
+        }
+
+        .property-all-listings {
+            display: flex;
+        }
+
+        .side-menu {
+            margin-top: 5px;
+        }
+        .p-margin{
+            margin: 0px;
+        }
+        #searchDest{
+          height: 42px;
+          width : 300px
+        }
+        #fDate{
+          height: 42px;
+          width : 150px
+        }
+        #tDate{
+          height: 42px;
+          width : 150px
+        }
+        #searchBtn{
+        height:42px
+        }
+        #guest{
+        height:42px;
+        width : 100px
+        }
+        #jumbElements{
+        justify-content:center;
+        padding-bottom:50px
+        }
+        h2{
+        padding:20px
+        }
+        #side{
+        width:50px
+        }
+        #searchBtn{
+        background-color:#FFDB58
+        }
+        #coro{
+        justify-content:center
+        }
+        a{
+        text-decoration:None
+        }
+
+        @media only screen and (max-width: 600px) {
+        #sbItems{
+        align:list-group-vertical
+        }
+        }
+
+
+    
